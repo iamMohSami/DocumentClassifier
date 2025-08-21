@@ -8,11 +8,3 @@ Performed document classification into four defined categories (World, Sports, B
 - Libraries- Pandas, Numpy, Matplotlib, Scikit Learn, NLTK, Keras, TensorFlow backend
 - Models- Naive Bayes, Logistic Regression, Random Forest, XGBoost, Shallow Neural Network, Convolutional Neural Network, RCNN
 
-## Implementation
-
-### Open document_classifier.ipynb Jupyter file to go to the implementation details
-
-### The model can be downloaded from below link.
-https://drive.google.com/drive/folders/10Ivt175DEkILxwHsF2Ltti8IZpVLtOyo?usp=sharing
-
-### The jupyter file also demonstrates loading and using the model for real-time predictions

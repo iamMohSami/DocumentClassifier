@@ -1,0 +1,11 @@
+pandas
+numpy
+textblob
+scikit-learn
+xgboost
+keras
+tensorflow
+matplotlib
+beautifulsoup4
+nltk
+unidecode
